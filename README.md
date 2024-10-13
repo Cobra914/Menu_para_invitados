@@ -61,4 +61,4 @@ Luego, creo una función que muestre la lista de la compra (ingredientes).
 
 ## Segundo paso: Crear una función
 
-Esta función toma como parámetro de entrada el menú e imprime el menú con todos sus platos e ingredientes necesarios para su compra / preparación.
+Esta función toma como parámetro de entrada el menú e imprime el menú con todos los ingredientes necesarios para su compra / preparación.
