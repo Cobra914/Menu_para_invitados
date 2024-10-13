@@ -49,10 +49,8 @@ def lista_ingredientes(menu):
     la elaboración de cada plato.
     """
     lista = []
-    index_plato = 1
 
     for plato in menu:
-        # print(plato)
         for ingrediente in menu[plato]:
             if ingrediente not in lista:
                 lista.append(ingrediente)
